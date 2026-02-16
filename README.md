@@ -63,14 +63,14 @@ Template: [`resources/6-week-timeline-template.md`](resources/6-week-timeline-te
 
 **Recruitment Channels (by quality):**
 1. **Word-of-mouth** — Highest commitment rate
-2. **Tumblr** — Highest-quality leads (discovered James)
+2. **Tumblr** — Highest-quality leads (one volunteer discovered via Tumblr)
 3. **Bluesky** — Good organic reach (500+ exposed)
 4. **Newsletter** — Broad reach with 18.96% open rate
 
 **Team Composition:**
-- **Event Lead:** Alice Carver (wheelchair user, fully accessible participation)
-- **Supply Coordinator:** Jake (Home Depot run)
-- **3 Additional Volunteers:** Caleb C, Minuteandone, James
+- **Event Lead:** Accessibility-focused organizer (wheelchair user, fully accessible participation)
+- **Supply Coordinator:** Logistics lead (Home Depot run)
+- **3 Additional Volunteers:** Mix of outreach respondents and household participants
 - **4 AI Agents:** Supporting roles throughout
 - **Community Impact:** Park residents noticed and thanked volunteers
 
@@ -128,7 +128,7 @@ See [`docs/DEVOE_PARK_CLEANUP_WRAP_UP.md`](docs/DEVOE_PARK_CLEANUP_WRAP_UP.md) f
 | **Timeline** | Compress to 5 weeks if needed; expand to 8 weeks for larger projects |
 | **Budget** | Scale ~$120/15 volunteers estimate up/down |
 | **Channels** | Swap newsletter for Facebook groups, Bluesky for Twitter, etc. |
-| **Accessibility** | Expand Alice's wheelchair accessibility to your community's needs |
+| **Accessibility** | Expand the Event Lead's accessibility plan to your community's needs |
 
 ---
 
@@ -173,8 +173,8 @@ You're free to:
 
 **What made Devoe Park work:**
 
-1. **Accessibility-First Leadership** — Alice's vision from the start ensured everyone could participate fully
-2. **Multi-Channel Recruitment** — Newsletter + Bluesky + Tumblr + word-of-mouth = 13 signups
+1. **Accessibility-First Leadership** — The Event Lead ensured everyone could participate fully
+2. **Multi-Channel Recruitment** — Newsletter + Bluesky + Tumblr + word-of-mouth = 13 signups (5 attendees)
 3. **Clear Documentation** — Role assignments, hour-by-hour ops checklist, risk matrix
 4. **Real-Time Coordination** — Structured communication on event day
 5. **Pre-Planned Engagement** — 5-wave email system keeps volunteers engaged for Cleanup #2

@@ -212,7 +212,7 @@ This playbook walks you through planning a 2-hour community cleanup event for 10
 - **Effort:** Low (ask existing volunteers to share)
 - **Result:** 3-5 sign-ups expected
 
-*How:* Ask volunteers to forward event to 2-3 friends. Mention them in updates ("thanks for referring James!").
+*How:* Ask volunteers to forward event to 2-3 friends. Mention them in updates ("thanks for referring [Volunteer Name]!").
 
 **Channel 5: Partnerships (Best for Scale)**
 - **Who:** Local nonprofits, schools, environmental groups, neighborhood associations
@@ -270,7 +270,7 @@ Create a simple spreadsheet:
 
 ### Pre-Event (48 Hours Before)
 
-**Event Lead (e.g., Alice) checks:**
+**Event Lead (e.g., designated organizer) checks:**
 - [ ] Weather forecast updated; contingency needed?
 - [ ] All volunteers received final reminder email
 - [ ] Supplies arriving/staged at accessible location
@@ -278,7 +278,7 @@ Create a simple spreadsheet:
 - [ ] First aid kit prepared and accessible
 - [ ] Communication channels tested (Slack, phone)
 
-**Supply Coordinator (e.g., Jake) confirms:**
+**Supply Coordinator (e.g., logistics lead) confirms:**
 - [ ] All supplies received/reserved (trash bags, tools, gloves, bins)
 - [ ] Transportation to park arranged
 - [ ] Backup hardware store identified
@@ -461,7 +461,7 @@ Best,
 ## 6. ACCESSIBILITY-FIRST DESIGN
 
 ### Why This Matters
-Community action that excludes people based on physical ability, income, or transportation isn't really community. The Devoe Park cleanup succeeded because Alice prioritized accessibility from day one.
+Community action that excludes people based on physical ability, income, or transportation isn't really community. The Devoe Park cleanup succeeded because the Event Lead prioritized accessibility from day one.
 
 ### Accessibility Audit Checklist
 
@@ -705,7 +705,7 @@ For 15 volunteers, 2-hour cleanup:
 - Sustain: Build ongoing community action program
 
 ### Key Success Factors (What the Devoe Park Cleanup Got Right)
-1. **Accessibility-first leadership** — Alice from day one
+1. **Accessibility-first leadership** — Event Lead from day one
 2. **Multi-channel recruitment** — Didn't rely on one source
 3. **Clear documentation** — Everyone knew their role
 4. **Real-time coordination** — Regular check-ins during event

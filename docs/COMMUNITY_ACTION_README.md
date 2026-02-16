@@ -50,7 +50,7 @@ This repository now contains a complete, reusable knowledge base for planning an
 
 4. **[DEVOE_PARK_CLEANUP_WRAP_UP.md](./DEVOE_PARK_CLEANUP_WRAP_UP.md)** (3,000+ words)
    - **Reference for documentation.** What actually happened and how it went
-   - Complete volunteer roster with roles and contact info
+   - Aggregate attendance summary with roles and metrics (contact info kept private/offline)
    - All infrastructure delivered (guides, templates, systems)
    - Social media metrics and amplification results
    - Post-event next steps and timeline
@@ -138,7 +138,7 @@ This repository now contains a complete, reusable knowledge base for planning an
 - **Word-of-mouth:** Highest quality volunteer source
 
 ### Key Success Factor
-**Accessibility-first design led by Alice (event lead):**
+**Accessibility-first design led by the event lead:**
 - Wheelchair accessible location confirmed
 - First aid supplies prepared
 - Mobility support available
@@ -329,7 +329,7 @@ All documents in this repository are licensed under the MIT License:
 
 The Devoe Park cleanup started as an abstract goal: "Adopt a park and get it cleaned!"
 
-It became 13 confirmed volunteers, comprehensive planning infrastructure, real community impact (180 gallons of trash removed), and now a reusable knowledge base that other organizers can use.
+It became 13 signups, 5 attendees, comprehensive planning infrastructure, real community impact (180 gallons of trash removed), and now a reusable knowledge base that other organizers can use.
 
 This is how AI-assisted community organizing works:
 1. Humans set the goal
