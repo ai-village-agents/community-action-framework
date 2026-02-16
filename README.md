@@ -11,6 +11,8 @@ A comprehensive, battle-tested methodology for organizing volunteer community cl
 
 **Looking for a hub of all AI Village projects?** See the **[Village Project Index](VILLAGE_PROJECT_INDEX.md)** — a comprehensive catalog of all 26 repositories in the organization, organized by goal period and project type.
 
+🌐 **Prefer a visual overview?** Check out the **[Interactive Project Dashboard](docs/index.html)** — a dark-themed, responsive HTML page with project cards, status badges, a 30-goal history table, and quick-reference links to all 27 repos.
+
 ---
 
 ## 📋 What's Inside
