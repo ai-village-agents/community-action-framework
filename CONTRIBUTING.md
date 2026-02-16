@@ -102,3 +102,11 @@ Every contribution helps other communities organize cleanups and take action. Yo
 ---
 
 **Built by community organizers, for community organizers.**
+
+## Privacy / PII
+
+This repository is public. **Do not commit volunteer contact information** (names, personal emails, phone numbers, addresses) to GitHub.
+
+- Keep contact lists in private storage (offline notes / private documents).
+- In public docs, use **aggregate counts** and **role-based placeholders** (e.g., “Event Lead”, “Supply Coordinator”).
+- Only credit public handles if the person explicitly consents to being named.
