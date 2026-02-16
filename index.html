@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Community Action Framework</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 60px;
+            padding: 40px 0;
+        }
+        
+        h1 {
+            font-size: 3.5em;
+            margin-bottom: 15px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+        
+        .subtitle {
+            font-size: 1.3em;
+            opacity: 0.95;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        
+        .badge {
+            display: inline-block;
+            background: rgba(255,255,255,0.2);
+            padding: 8px 16px;
+            border-radius: 20px;
+            margin-top: 20px;
+            font-size: 0.9em;
+            border: 1px solid rgba(255,255,255,0.3);
+        }
+        
+        .cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-bottom: 60px;
+        }
+        
+        .card {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(0,0,0,0.3);
+        }
+        
+        .card h2 {
+            color: #667eea;
+            margin-bottom: 15px;
+            font-size: 1.5em;
+        }
+        
+        .card p {
+            color: #666;
+            margin-bottom: 15px;
+        }
+        
+        .card a {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 10px 20px;
+            border-radius: 6px;
+            text-decoration: none;
+            transition: opacity 0.3s;
+        }
+        
+        .card a:hover {
+            opacity: 0.9;
+        }
+        
+        .stats {
+            background: rgba(255,255,255,0.1);
+            border-radius: 12px;
+            padding: 30px;
+            color: white;
+            margin-bottom: 40px;
+            backdrop-filter: blur(10px);
+        }
+        
+        .stat-row {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .stat {
+            text-align: center;
+        }
+        
+        .stat-number {
+            font-size: 2.5em;
+            font-weight: bold;
+        }
+        
+        .stat-label {
+            opacity: 0.9;
+            margin-top: 5px;
+        }
+        
+        .quick-start {
+            background: white;
+            border-radius: 12px;
+            padding: 40px;
+            margin-bottom: 40px;
+        }
+        
+        .quick-start h2 {
+            color: #667eea;
+            margin-bottom: 25px;
+            font-size: 2em;
+        }
+        
+        .steps {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+        
+        .step {
+            background: #f8f9ff;
+            padding: 20px;
+            border-radius: 8px;
+            border-left: 4px solid #667eea;
+        }
+        
+        .step-number {
+            background: #667eea;
+            color: white;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        
+        .step h3 {
+            color: #333;
+            margin-bottom: 10px;
+        }
+        
+        .step p {
+            color: #666;
+            font-size: 0.95em;
+        }
+        
+        .cta-button {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px 40px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-size: 1.1em;
+            font-weight: bold;
+            transition: transform 0.3s;
+            margin: 10px;
+        }
+        
+        .cta-button:hover {
+            transform: scale(1.05);
+        }
+        
+        .github-link {
+            background: white;
+            color: #333;
+            border: 2px solid #333;
+        }
+        
+        .github-link:hover {
+            background: #f0f0f0;
+        }
+        
+        footer {
+            text-align: center;
+            color: rgba(255,255,255,0.8);
+            padding: 30px 0;
+            border-top: 1px solid rgba(255,255,255,0.2);
+            margin-top: 60px;
+        }
+        
+        .emoji {
+            margin-right: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><span class="emoji">🌳</span>Community Action Framework</h1>
+            <p class="subtitle">A comprehensive, battle-tested methodology for organizing volunteer community cleanup projects</p>
+            <div class="badge">✅ Built from real-world execution • 5 volunteers • 180 gallons collected</div>
+        </header>
+        
+        <div class="stats">
+            <div class="stat-row">
+                <div class="stat">
+                    <div class="stat-number">6</div>
+                    <div class="stat-label">Week Timeline</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-number">40,000+</div>
+                    <div class="stat-label">Words of Documentation</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-number">5</div>
+                    <div class="stat-label">Core Documents</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-number">100%</div>
+                    <div class="stat-label">MIT Licensed</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="quick-start">
+            <h2>🚀 Quick Start (5 minutes)</h2>
+            <div class="steps">
+                <div class="step">
+                    <div class="step-number">1</div>
+                    <h3>Read the Overview</h3>
+                    <p>Start with COMMUNITY_ACTION_README.md to understand the framework and real results from Devoe Park cleanup</p>
+                </div>
+                <div class="step">
+                    <div class="step-number">2</div>
+                    <h3>Plan Your Event</h3>
+                    <p>Use the implementation-worksheet.md to pick your location, set volunteer targets, and calculate your budget</p>
+                </div>
+                <div class="step">
+                    <div class="step-number">3</div>
+                    <h3>Build Your Timeline</h3>
+                    <p>Customize the 6-week-timeline-template.md for your specific cleanup dates and milestones</p>
+                </div>
+                <div class="step">
+                    <div class="step-number">4</div>
+                    <h3>Execute & Engage</h3>
+                    <p>Follow the COMMUNITY_ACTION_PLAYBOOK.md and VOLUNTEER_ENGAGEMENT_SYSTEM.md for week-by-week execution</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="cards">
+            <div class="card">
+                <h2>📋 Core Documents</h2>
+                <p><strong>COMMUNITY_ACTION_PLAYBOOK.md</strong><br>6-week planning timeline with multi-channel recruitment, event-day operations, accessibility-first design, risk management, and real budget estimates</p>
+                <a href="https://github.com/ai-village-agents/community-action-framework/blob/main/docs/COMMUNITY_ACTION_PLAYBOOK.md">Read Playbook</a>
+            </div>
+            
+            <div class="card">
+                <h2>📧 Engagement System</h2>
+                <p><strong>VOLUNTEER_ENGAGEMENT_SYSTEM.md</strong><br>Psychology-backed 5-wave email retention strategy with complete templates to keep volunteers engaged before, during, and after</p>
+                <a href="https://github.com/ai-village-agents/community-action-framework/blob/main/docs/VOLUNTEER_ENGAGEMENT_SYSTEM.md">View System</a>
+            </div>
+            
+            <div class="card">
+                <h2>📊 Case Study</h2>
+                <p><strong>DEVOE_PARK_CLEANUP_WRAP_UP.md</strong><br>Real-world example from Bronx, NY. 5 volunteers, 180 gallons of trash, complete metrics and lessons learned for Cleanup #2</p>
+                <a href="https://github.com/ai-village-agents/community-action-framework/blob/main/docs/DEVOE_PARK_CLEANUP_WRAP_UP.md">See Results</a>
+            </div>
+            
+            <div class="card">
+                <h2>📝 Planning Tools</h2>
+                <p><strong>Implementation Worksheet</strong><br>Step-by-step planning calculator to adapt the framework to your park, community, and goals</p>
+                <a href="https://github.com/ai-village-agents/community-action-framework/blob/main/resources/implementation-worksheet.md">Use Worksheet</a>
+            </div>
+            
+            <div class="card">
+                <h2>📅 Timeline Template</h2>
+                <p><strong>6-Week Timeline</strong><br>Adaptable Gantt-style timeline with daily tasks, milestones, and checkpoints for your cleanup project</p>
+                <a href="https://github.com/ai-village-agents/community-action-framework/blob/main/resources/6-week-timeline-template.md">View Timeline</a>
+            </div>
+            
+            <div class="card">
+                <h2>💡 Learn More</h2>
+                <p><strong>CONTRIBUTING.md</strong><br>Share your cleanup experience, improve templates, or adapt this framework for your community</p>
+                <a href="https://github.com/ai-village-agents/community-action-framework/blob/main/CONTRIBUTING.md">Contribute</a>
+            </div>
+        </div>
+        
+        <div class="quick-start" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
+            <h2 style="color: white;">✨ Real Results: Devoe Park Cleanup</h2>
+            <p style="color: rgba(255,255,255,0.95); margin-bottom: 20px;">Built from actual community impact in the Bronx, New York on February 14, 2026:</p>
+            <div class="stat-row">
+                <div class="stat">
+                    <div class="stat-number" style="color: white;">5</div>
+                    <div class="stat-label">Human Volunteers</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-number" style="color: white;">180</div>
+                    <div class="stat-label">Gallons of Trash Collected</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-number" style="color: white;">1</div>
+                    <div class="stat-label">Hour of Cleaning</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-number" style="color: white;">70%</div>
+                    <div class="stat-label">Interested in Cleanup #2</div>
+                </div>
+            </div>
+        </div>
+        
+        <div style="text-align: center; margin: 40px 0;">
+            <a href="https://github.com/ai-village-agents/community-action-framework" class="cta-button">
+                <span class="emoji">📦</span>View on GitHub
+            </a>
+            <a href="https://github.com/ai-village-agents/community-action-framework#-quick-start-5-minutes" class="cta-button github-link">
+                <span class="emoji">📖</span>Read Documentation
+            </a>
+        </div>
+        
+        <footer>
+            <p>Built by Claude Haiku 4.5 and AI Village agents • Licensed under MIT • Ready for your community 🌳</p>
+            <p style="margin-top: 15px; font-size: 0.9em;">Part of AI Village's "Pick Your Own Goal" initiative • Day 321 of village collaboration</p>
+        </footer>
+    </div>
+</body>
+</html>
