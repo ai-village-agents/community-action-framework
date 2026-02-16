@@ -21,10 +21,12 @@ The 5-Wave Email Strategy takes volunteers on a journey:
 5. **Wave 5 (Day 14):** "You're building something bigger" → Convert to next event
 
 **Real Result from Devoe Park:**
-- 5 humans attended (2 from outreach, 3 from Alice's household)
+- 5 humans attended (2 from outreach, 3 from the Event Lead's household)
 - 180 gallons of trash collected in 1 hour
 - Before/after photos captured
 - Love Dolores park (SF) still interested in partnering
+
+**Privacy:** Store volunteer name/email lists privately (off GitHub). Publish only aggregate counts or role-based references unless a public handle is explicitly cleared for attribution.
 
 **Goal:** Convert 70%+ of attendees to Cleanup #2 and develop 3-5 into leadership roles.
 
@@ -116,7 +118,7 @@ Following Saturday's successful cleanup, here's the full picture of
 what we accomplished together:
 
 ## BY THE NUMBERS
-- **Volunteers:** 5 amazing people (2 from outreach + 3 from Alice's household)
+- **Volunteers:** 5 amazing people (2 from outreach + 3 from the Event Lead's household)
 - **Duration:** 1 hour of intensive cleanup
 - **Trash Collected:**
   - 6 thirty-gallon bags (180 gallons total)
@@ -191,7 +193,7 @@ Best,
 
 ### PERSONALIZATION BY ROLE
 
-**For Event Lead (Alice):**
+**For Event Lead:**
 ```
 Your leadership on Saturday made everything possible. From ensuring 
 wheelchair accessibility to first aid coordination to volunteer 
@@ -201,7 +203,7 @@ Leadership Role: Event Lead for Cleanup #2?
 We'd love your continued leadership.
 ```
 
-**For Supply Coordinator (Jake):**
+**For Supply Coordinator:**
 ```
 The supply strategy worked perfectly. No shortages, perfect tool selection, 
 trash bins ready. Your Home Depot coordination ensured we could execute 
@@ -229,7 +231,7 @@ Leadership Role: Join us as a volunteer OR step up to zone lead?
 ```
 
 ### DATA YOU NEED
-- Real volunteer names and emails
+- Real volunteer names and emails (store privately; do not commit to GitHub)
 - Real supply counts (bags, items found)
 - Real photos (link to before/after)
 - Real community feedback (quotes from locals)
@@ -284,7 +286,7 @@ hadn't. Real visible change.
 **"We found 100-150 cigarette butts alone"** — The specificity shows 
 the scale. You didn't just pick up litter; you documented what was there.
 
-**From Alice (Event Lead):** "Watching people from different backgrounds, 
+**From Event Lead:** "Watching people from different backgrounds, 
 different abilities, come together for something meaningful — that's what 
 community should be."
 
@@ -339,9 +341,9 @@ be highlighted? If yes, we'll ask:
 ## FEATURED REFLECTION: ACCESSIBILITY IN ACTION
 
 One of Saturday's greatest successes was the full participation of 
-volunteers with different abilities. Alice's wheelchair doubled as a 
-mobile supply station. Accessible parking meant people could get there. 
-Level ground in the playground meant everyone could contribute.
+volunteers with different abilities. The Event Lead's wheelchair doubled 
+as a mobile supply station. Accessible parking meant people could get 
+there. Level ground in the playground meant everyone could contribute.
 
 **This is the model we're building:** Community action that includes 
 everyone, not despite disabilities but because we design for them.
@@ -374,14 +376,14 @@ Best,
 - Real next event timeline
 
 ### TRACKING THIS WAVE
-Create a spreadsheet:
+Create a spreadsheet (store privately; share only aggregate counts publicly):
 
 | Volunteer | Sent | Opened | Clicked | Responded | Choice |
 |-----------|------|--------|---------|-----------|--------|
-| Alice | ✓ | ✓ | ✓ | ✓ | Leadership |
-| Jake | ✓ | ✓ | ✓ | ✓ | Active |
-| Caleb | ✓ | ✓ | ✗ | ✗ | — |
-| [Others] | | | | | |
+| Event Lead | ✓ | ✓ | ✓ | ✓ | Leadership |
+| Supply Coordinator | ✓ | ✓ | ✓ | ✓ | Active |
+| Volunteer A | ✓ | ✓ | ✗ | ✗ | — |
+| Volunteer B | | | | | |
 
 ### SUCCESS INDICATORS
 - [ ] 50%+ open rate
@@ -413,7 +415,7 @@ role for Cleanup #2.
 
 ## YOUR SPECIFIC IMPACT
 
-**[For Alice/Event Lead]:**
+**[For Event Lead]:**
 You created a safe, accessible environment where 5 volunteers of 
 different abilities worked seamlessly together. That doesn't happen by 
 accident — it happens because of intentional leadership. You:
@@ -422,7 +424,7 @@ accident — it happens because of intentional leadership. You:
 - Created psychological safety (people felt welcome)
 - Modeled inclusive community action
 
-**[For Jake/Supply Coordinator]:**
+**[For Supply Coordinator]:**
 Zero supply shortages. Perfect tool selection. Supplies staged and 
 ready. This is expert logistics:
 - Home Depot partnership executed flawlessly
