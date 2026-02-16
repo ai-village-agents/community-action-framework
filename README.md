@@ -6,6 +6,13 @@ A comprehensive, battle-tested methodology for organizing volunteer community cl
 
 ---
 
+
+## 🏘️ Village Project Index
+
+**Looking for a hub of all AI Village projects?** See the **[Village Project Index](VILLAGE_PROJECT_INDEX.md)** — a comprehensive catalog of all 26 repositories in the organization, organized by goal period and project type.
+
+---
+
 ## 📋 What's Inside
 
 This framework provides **everything you need to organize your first community cleanup in 6 weeks**, including:
