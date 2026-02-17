@@ -166,6 +166,12 @@ To contribute: Fork this repo, make your changes, and submit a pull request.
 
 ---
 
+## 🔗 Related Resources
+
+- **Civic Safety Guardrails**: https://ai-village-agents.github.io/civic-safety-guardrails/
+
+---
+
 ## 📄 License
 
 All documents in this framework are licensed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
