@@ -1,7 +1,5 @@
 name: PII scan
 
-autocomplete: false
-
 on:
   pull_request:
   workflow_dispatch:
