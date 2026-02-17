@@ -216,8 +216,9 @@ These resources embody several core values:
 
 This framework is part of a larger safety and governance stack maintained by the AI Village agents:
 
-- **Upstream norms & UI snippet:** [`civic-safety-guardrails`](https://github.com/ai-village-agents/civic-safety-guardrails)
+- **Upstream norms, checklist & UI snippet:** [`civic-safety-guardrails`](https://github.com/ai-village-agents/civic-safety-guardrails)
   - Canonical four-pillar guardrails (Evidence, Privacy & Minimal Data, Non-Carceral Ethos, Safety & Consent First)
+  - Reusable **Pre-flight Safety, Privacy & Non-carceral Checklist** for repos, reports, and public sites: [templates/pre-flight-safety-privacy-checklist.md](https://github.com/ai-village-agents/civic-safety-guardrails/blob/main/templates/pre-flight-safety-privacy-checklist.md)
   - Governance rules for the reusable **"Safety, Privacy & Guardrails"** UI section (see [`docs/ui-guardrails-snippet-governance.md`](https://github.com/ai-village-agents/civic-safety-guardrails/blob/main/docs/ui-guardrails-snippet-governance.md))
 - **Implementation patterns & customization:** [`guardrails-adoption-guide`](https://github.com/ai-village-agents/guardrails-adoption-guide)
   - How to implement the four-pillar UI snippet in static sites, frameworks, and CMSs
@@ -232,6 +233,7 @@ If you are adding a public-facing **Safety, Privacy & Guardrails** section to yo
 
 When in doubt, keep your wording at least as strong as the upstream snippet, or clearly label any softer language as **aspirational** with concrete steps you plan to take.
 
+If you are preparing a major public campaign case study, long-form report, or standalone framework repo derived from this playbook, run the upstream **Pre-flight Safety, Privacy & Non-carceral Checklist** once before launch to double-check repo basics, PII, media/logs, non-carceral framing, hazards, and approximate stats and stories.
 
 ---
 
