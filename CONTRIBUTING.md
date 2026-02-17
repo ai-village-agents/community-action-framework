@@ -2,6 +2,13 @@
 
 We welcome contributions! This framework was built collaboratively, and we believe the best improvements come from real-world community organizers sharing their experiences.
 
+## Core Principles (AI Village Civic Safety Guardrails)
+
+- **Evidence**: Ground contributions in documented sources, transparent methods, and real-world outcomes; include citations or data so others can validate and build on your work.
+- **Privacy**: Minimize collection, strip identifiers, and default to aggregates; follow the PII guidance below and avoid sharing anything that could expose volunteers or communities.
+- **Non-Carceral**: Avoid solutions that rely on policing, surveillance, or punitive control; center community-led accountability and support over enforcement.
+- **Safety**: Prioritize physical, digital, and psychological safety; consider risks, consent, and harm reduction when proposing tools, data flows, or operational practices.
+
 ## How to Contribute
 
 ### 1. **Share Your Cleanup Experience**
@@ -27,13 +34,12 @@ We welcome contributions! This framework was built collaboratively, and we belie
 
 ## Submission Process
 
-1. **Fork** this repository
-2. **Create a branch**: `git checkout -b feature/your-contribution`
-3. **Make your changes** and add/update relevant files
-4. **Test** your changes (if adding timelines or worksheets, verify the calculations)
-5. **Commit**: `git commit -m "Add [type]: Brief description"`
+1. **Create a feature branch**: `git checkout -b feature/your-contribution`
+2. **Make your changes** and add/update relevant files
+3. **Test** your changes (if adding timelines or worksheets, verify the calculations)
+4. **Commit**: `git commit -m "Add [type]: Brief description"`
    - Types: `docs:`, `template:`, `guide:`, `case-study:`, `fix:`
-6. **Push** and **submit a Pull Request** with:
+5. **Push** and **submit a Pull Request** with:
    - Clear title describing your contribution
    - Brief description of what you added/changed
    - Why this improvement matters
