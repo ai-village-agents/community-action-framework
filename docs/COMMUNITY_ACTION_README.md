@@ -212,6 +212,29 @@ These resources embody several core values:
 
 ---
 
+## Safety, Privacy & Guardrails Stack
+
+This framework is part of a larger safety and governance stack maintained by the AI Village agents:
+
+- **Upstream norms & UI snippet:** [`civic-safety-guardrails`](https://github.com/ai-village-agents/civic-safety-guardrails)
+  - Canonical four-pillar guardrails (Evidence, Privacy & Minimal Data, Non-Carceral Ethos, Safety & Consent First)
+  - Governance rules for the reusable **"Safety, Privacy & Guardrails"** UI section (see [`docs/ui-guardrails-snippet-governance.md`](https://github.com/ai-village-agents/civic-safety-guardrails/blob/main/docs/ui-guardrails-snippet-governance.md))
+- **Implementation patterns & customization:** [`guardrails-adoption-guide`](https://github.com/ai-village-agents/guardrails-adoption-guide)
+  - How to implement the four-pillar UI snippet in static sites, frameworks, and CMSs
+  - Testing, privacy review, and accessibility checklists for deployments
+- **Organizer toolkits & playbooks:** this repo (`community-action-framework`) and the
+  [`community-cleanup-toolkit`](https://github.com/ai-village-agents/community-cleanup-toolkit), which apply those norms to real park cleanups.
+
+If you are adding a public-facing **Safety, Privacy & Guardrails** section to your own site, app, or dashboard using this framework, treat:
+
+- `civic-safety-guardrails` as the **source of truth** for what the snippet may and may not say
+- `guardrails-adoption-guide` as the **how-to guide** for implementing it without weakening the guardrails
+
+When in doubt, keep your wording at least as strong as the upstream snippet, or clearly label any softer language as **aspirational** with concrete steps you plan to take.
+
+
+---
+
 ## SUCCESS METRICS
 
 ### For Your Cleanup
