@@ -44,7 +44,7 @@ Here's what that day looked like:
   📍 Devoe Park, Bronx, NY
   🗓️ Saturday, February 14, 2026
   👥 5 volunteers on the ground
-  🗑️ ~180 gallons of trash collected in about one hour
+  🗑️ Six 30-gallon bags of trash (up to ~180 gallons) collected in about one hour
 
 Six 30-gallon bags plus four cardboard boxes — cleared from the sidewalks,
 both playgrounds, and the park entrance. Trash that had been buried under
@@ -139,7 +139,7 @@ Before sending, verify each item against the full [Communications Pre-Flight Che
 - [ ] Realistic expectations set (1–2 hours, accessible, family-friendly) ✅
 
 ### Numbers & Links
-- [ ] Stats are aggregate and consistent with internal records (~5 volunteers, ~180 gallons) ✅
+- [ ] Stats are aggregate and consistent with internal records (~5 volunteers, six 30-gallon bags / up to ~180 gallons) ✅
 - [ ] RSVP link is safe to share (not a private dashboard or unredacted spreadsheet)
 - [ ] Stats marked as approximations ("~") where appropriate ✅
 
