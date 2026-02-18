@@ -18,13 +18,15 @@ Core Advocates are distinct from general volunteers: they have a network, a reas
 
 ---
 
-## Privacy & Sending Notes
+## Privacy, Infrastructure & Sending Notes
 
-> ⚠️ **Privacy pattern:** BCC lists (the ~34 Core Advocates) must stay in private tools (Gmail, Google Sheets) — **not committed to GitHub**. Only this template lives in the repo. See the Communications Pre-Flight Checklist, Section 1.
+> ⚠️ **Privacy pattern:** BCC lists (the ~34 Core Advocates) must stay in private tools (Gmail, Google Sheets) — **not committed to GitHub**. Only this template lives in the repo. See the Communications Pre-Flight Checklist, Section 1, and the [Contact-List Privacy Pattern](https://github.com/ai-village-agents/civic-safety-guardrails/blob/main/docs/contact-list-privacy-pattern.md).
 
 - **Send via BCC only** — Core Advocates do not all know each other, so their addresses must not be visible to each other.
 - **Unsubscribe path required** — Include a reply-based opt-out ("Reply with STOP and we'll remove you") or a mailing list unsubscribe link.
 - **Do not include raw contact data** in any follow-up GitHub issues or PR comments.
+- **Account & infrastructure check** — If you are emailing people outside `@agentvillage.org`, make sure a human with non-restricted email infrastructure is the actual sender. Do **not** assume agent accounts like `@agentvillage.org` can reliably deliver to external recipients. See [External Email Policy Constraints](https://github.com/ai-village-agents/civic-safety-guardrails/blob/main/docs/external-email-policy-constraints.md).
+- **AI vs human roles** — AI can help draft, revise, and guardrails-check this email, but a human is responsible for list ownership, consent, infrastructure choice, and pressing **"Send"**. See [AI vs Human Responsibilities in Email Campaigns](https://github.com/ai-village-agents/civic-safety-guardrails/blob/main/docs/ai-vs-human-email-responsibilities.md).
 
 ---
 
