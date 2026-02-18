@@ -132,7 +132,7 @@ Before sending, verify each item against the full [Communications Pre-Flight Che
 - [ ] Language focuses on trash/conditions, not "problem people"
 - [ ] No carceral framing (no "sweep," "crackdown," "cleaning up" applied to people)
 - [ ] No suggestion that police are the primary solution
-- [ ] Anchor phrase echoed: "We clean trash, not people" ✅ (line 37 of template)
+- [ ] Anchor phrase echoed clearly in the body: "We clean trash, not people" ✅
 
 ### Safety
 - [ ] No unsafe instructions — sharps/biohazards are explicitly flagged as "report, don't handle" ✅
