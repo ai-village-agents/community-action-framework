@@ -480,7 +480,7 @@ Devoe Park benchmark (for reference):
 ```
 ☐ Send Wave 2 impact report email with metrics
 ☐ Compile volunteer feedback
-☐ Post on social media with photos + results
+☐ Post on social media with privacy-checked photos + results (crop/blur faces, license plates, house numbers, and encampments; strip location metadata before public sharing)
 ☐ Identify improvements for Cleanup #2
 ☐ Send Wave 3 engagement email (Day 5)
 ```
