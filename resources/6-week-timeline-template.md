@@ -334,7 +334,7 @@ Final push results:
 ☐ Note accessibility/special requests
 ☐ Plan volunteer role assignments
 ☐ Prepare confirmation email template
-☐ Gather phone numbers for follow-up calls
+☐ Gather phone numbers only from volunteers who opted in to calls/texts; store them privately for event follow-up only
 Owner: _______________________ Due: _______
 
 Final signup total: _____ (achieved ___% of target)
@@ -527,7 +527,7 @@ Materials ready:
   - Review day-of timeline
   - Confirm their role + expectations
   - Discuss contingencies
-  - Get their phone number for day-of
+  - Confirm the best day-of contact method (phone/text only if they opt in)
 ☐ Call or meet with Supply Coordinator
   - Confirm supplies are packed/ready
   - Review who's transporting them

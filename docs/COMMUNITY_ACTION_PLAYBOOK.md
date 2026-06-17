@@ -586,7 +586,7 @@ Community action that excludes people based on physical ability, income, or tran
    - Contingency notes
 
 5. **Volunteer Sign-Up Form:**
-   - Name, email, phone
+   - Name, email, optional phone for event follow-up (only if they opt in)
    - Accessibility needs (open-ended)
    - Preferred zone/role
    - Can you refer friends?

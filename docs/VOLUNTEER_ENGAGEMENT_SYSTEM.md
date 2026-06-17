@@ -634,8 +634,9 @@ What would you like to do?
 
 ### REFER A FRIEND
 
-Know someone who'd love to help? Send us their email + a sentence 
-about why you think they'd be great.
+Know someone who'd love to help? Forward them this invitation, or share
+their contact details only if they explicitly asked you to connect them.
+Add a sentence about why you think they'd be great.
 
 **Referral bonus:** When your friend attends Cleanup #2, we'll give 
 you both special recognition! 🎉
