@@ -707,7 +707,7 @@ Responses received: _____
 ```
 ☐ Download all event photos
 ☐ Organize in folder by type (before, action, after)
-☐ Create album online (Google Drive, Imgur, etc.)
+☐ Create a privacy-checked album online (link-restricted when possible; crop/blur faces, license plates, house numbers, and encampments; strip location metadata before public sharing)
 ☐ Write 1-2 sentence captions for social media
 Owner: _______________________ Due: [DAY 1]
 
